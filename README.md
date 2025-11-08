@@ -21,7 +21,7 @@ Hi there, I'm Abnel Pradhan 👋
 ### Projects
 | Project Name        | Description                                | Link |
 |---------------------|--------------------------------------------|------|
-| Portfolio Website   | Personal portfolio showcasing my work      | [View Project](#) |
+| Portfolio Website   | Personal portfolio showcasing my work      | [View Project](https://abnelpradhan.netlify.app/) |
 | To-Do App           | Simple task management app with JavaScript | [View Project](#) |
 | Weather App         | Weather forecast app using API             | [View Project](#) |
 
@@ -30,7 +30,7 @@ Hi there, I'm Abnel Pradhan 👋
 ### Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/abnelpradhan/)
 - [GitHub](https://github.com/yourusername)
-- [Portfolio Website](https://yourwebsite.com) (if live)
+- [Portfolio Website](https://abnelpradhan.netlify.app/)
 
 ---
 
