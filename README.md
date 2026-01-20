@@ -3,7 +3,7 @@ Hi there, I'm Abnel Pradhan 👋
  About Me
 - 🎓 I’m currently pursuing **Bachelor of Computer Applications (BCA)**.
 - 💻 Passionate about **Full Stack Development** and **Cloud Computing**.
-- 🌱 Currently learning **React.js, Node.js, and AWS Cloud Basics**.
+- 🌱 Currently learning **React.js, python, and Web development**.
 - 🚀 I love building projects that solve real-world problems.
 - 📫 How to reach me: abnelpradhan7@gmail.com
 
