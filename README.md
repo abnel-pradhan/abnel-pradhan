@@ -79,7 +79,7 @@ I've organized my skills using visual badges so you can see my stack at a glance
 ### 🤝 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abnelpradhan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/abnel-pradhan-377147304/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bqyp0CQgeSh65mTkJd85gHg%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://abnelpradhan.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://newarprime.in/"><img src="https://img.shields.io/badge/newarprime.in-1E1E1E?style=for-the-badge" alt="newarprime.in" /></a>
 </p>
