@@ -1,11 +1,12 @@
 <h1 align="center">Hi there, I'm Abnel Pradhan 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;BCA+Student+%7C+Tech+Enthusiast;Python+%26+AI+Learner;Content+Creator+%40+Abnel+TechCraft" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Founder+%26+Creator+of+%40+newarprime.in;BCA+Student+%7C+Tech+Enthusiast;Python+%26+AI+Learner;Founder+%26+Creator+of+%40+newarprime.in" alt="Typing SVG" />
 </div>
 
+
 <p align="center">
-  Welcome to my GitHub! I am a <b>Bachelor of Computer Applications (BCA)</b> student who is passionate about building scalable web applications, exploring Artificial Intelligence, and solving real-world problems through code. 
+ Welcome to my GitHub! I am a <b>Bachelor of Computer Applications (BCA)</b> student and the Founding Developer of <b>newarprime.in</b>. I am passionate about building scalable web applications, exploring Artificial Intelligence, and solving real-world problems through code.
 </p>
 
 ---
@@ -15,7 +16,7 @@
 - 🎓 Currently delving deep into my **BCA** coursework, mastering everything from digital logic to advanced programming.
 - 💻 Passionate about the intersection of **Full Stack Web Development**, **Cloud Computing**, and **AI Agents**.
 - 🌱 Currently expanding my toolkit with **React.js, Python, C, and Machine Learning concepts**.
-- 🎥 When I'm not coding, I'm sharing my tech journey and tutorials on my YouTube channel, **Abnel TechCraft**.
+- 🚀 As the Founding Developer of **newarprime.in**, I gained hands-on experience taking a web platform from a raw concept to a live product.
 - 📫 How to reach me: **abnelpradhan7@gmail.com**
 
 ---
@@ -58,8 +59,8 @@ I've organized my skills using visual badges so you can see my stack at a glance
 
 | Project Name | Description | Link |
 |--------------|-------------|------|
-| **AI Virtual Painter** | A Python-based computer vision application that allows users to draw on-screen using hand gestures (including a custom signature feature). | [Live Site](https://abnel-pradhan.github.io/gesture-particles-web/) |
-| **E-Commerce Dropshipping Store** | A fully functional, responsive online storefront built for selling t-shirts, integrating modern web dev practices. | [Live Site](#) |
+| **AI Virtual Painter** | A Python-based computer vision application that allows users to draw on-screen using hand gestures (including a custom signature feature). | [Live Site](#) |
+| **Gesture Particles Engine** | A browser-based computer vision app that translates real-time hand gestures into dynamic visual effects. | [Live Demo](https://abnel-pradhan.github.io/gesture-particles-web/) |
 | **Google AI Agents Implementation** | Practical implementations from the Google AI Agents intensive course, utilizing modern machine learning tools. | [View Repo](#) |
 | **Personal Portfolio** | My personal web space showcasing my work, built with responsive design principles. | [Live Site](https://abnelpradhan.netlify.app/) |
 
@@ -80,5 +81,5 @@ I've organized my skills using visual badges so you can see my stack at a glance
 <p align="center">
   <a href="https://www.linkedin.com/in/abnelpradhan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://abnelpradhan.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://youtube.com/@AbnelTechCraft"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://newarprime.in/"><img src="https://img.shields.io/badge/newarprime.in-1E1E1E?style=for-the-badge" alt="newarprime.in" /></a>
 </p>
