@@ -68,11 +68,10 @@ I've organized my skills using visual badges so you can see my stack at a glance
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Abnel's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abnel-pradhan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Abnel's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117" alt="Abnel's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abnel-pradhan&theme=radical&hide_border=true&background=0D1117" alt="Abnel's GitHub Streak" />
 </div>
-
 ---
 
 ### 🤝 Let's Connect!
