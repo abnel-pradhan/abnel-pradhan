@@ -61,7 +61,7 @@ I've organized my skills using visual badges so you can see my stack at a glance
 |--------------|-------------|------|
 | **AI Virtual Painter** | A Python-based computer vision application that allows users to draw on-screen using hand gestures (including a custom signature feature). | [Live Site](#) |
 | **Gesture Particles Engine** | A browser-based computer vision app that translates real-time hand gestures into dynamic visual effects. | [Live Demo](https://abnel-pradhan.github.io/gesture-particles-web/) |
-| **Google AI Agents Implementation** | Practical implementations from the Google AI Agents intensive course, utilizing modern machine learning tools. | [View Repo](#) |
+| **Google AI Agents Implementation** | Practical implementations from the Google AI Agents intensive course, utilizing modern machine learning tools. | [View Repo](https://github.com/abnel-pradhan/google-workspace-agent) |
 | **Personal Portfolio** | My personal web space showcasing my work, built with responsive design principles. | [Live Site](https://abnelpradhan.netlify.app/) |
 
 ---
