@@ -58,7 +58,7 @@ I've organized my skills using visual badges so you can see my stack at a glance
 
 | Project Name | Description | Link |
 |--------------|-------------|------|
-| **AI Virtual Painter** | A Python-based computer vision application that allows users to draw on-screen using hand gestures (including a custom signature feature). | [View Repo](#https://abnel-pradhan.github.io/gesture-particles-web/) |
+| **AI Virtual Painter** | A Python-based computer vision application that allows users to draw on-screen using hand gestures (including a custom signature feature). | [Live Site](#https://abnel-pradhan.github.io/gesture-particles-web/) |
 | **E-Commerce Dropshipping Store** | A fully functional, responsive online storefront built for selling t-shirts, integrating modern web dev practices. | [Live Site](#) |
 | **Google AI Agents Implementation** | Practical implementations from the Google AI Agents intensive course, utilizing modern machine learning tools. | [View Repo](#) |
 | **Personal Portfolio** | My personal web space showcasing my work, built with responsive design principles. | [Live Site](https://abnelpradhan.netlify.app/) |
