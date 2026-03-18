@@ -63,6 +63,7 @@ I've organized my skills using visual badges so you can see my stack at a glance
 | **Gesture Particles Engine** | A browser-based computer vision app that translates real-time hand gestures into dynamic visual effects. | [Live Demo](https://abnel-pradhan.github.io/gesture-particles-web/) |
 | **Google AI Agents Implementation** | Practical implementations from the Google AI Agents intensive course, utilizing modern machine learning tools. | [View Repo](https://github.com/abnel-pradhan/google-workspace-agent) |
 | **Personal Portfolio** | My personal web space showcasing my work, built with responsive design principles. | [Live Site](https://abnelpradhan.netlify.app/) |
+| **Affiliate Marketing Website** | Join India's fastest-growing e-learning platform. Learn high-income skills like Affiliate Marketing, Sales, and Content Creation while earning 60-70% commission.| [Live Site](https://newarprime.in/) |
 
 ---
 
