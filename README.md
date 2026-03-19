@@ -67,6 +67,15 @@ I've organized my skills using visual badges so you can see my stack at a glance
 
 ---
 
+### 🏆 Certifications
+
+| Credential | Issuer | Date | Link |
+|------------|--------|------|------|
+| **Building AI Agents (5-Day Intensive)** | Google | Jan 2026 | [View Certificate](#) |
+| **[Add Another Certificate Here]** | [Issuer Name] | [Date] | [View Certificate](#) |
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
