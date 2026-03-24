@@ -72,7 +72,7 @@ I've organized my skills using visual badges so you can see my stack at a glance
 | Credential | Issuer | Date | Link |
 |------------|--------|------|------|
 | **Building AI Agents (5-Day Intensive)** | Google | Jan 2026 | [View Certificate](https://www.kaggle.com/certification/badges/abnelpradhan/105) |
-| **[Add Another Certificate Here]** | [Issuer Name] | [Date] | [View Certificate](https://www.kaggle.com/certification/badges/abnelpradhan/105) |
+| **Introduction to GenAI & Prompting** | [Introduction to GenAI & Prompting] | [July 2025] | [View Certificate](https://drive.google.com/file/d/1IrpCTVuME25El5gkCYR29eDbBkhY8F6_/view?usp=sharing) |
 
 ---
 
